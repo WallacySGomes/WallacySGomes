@@ -1,9 +1,5 @@
 👨🏽‍💻 Wallacy Dos Santos Gomes 
 
-**`Estudande de Programação`**
-
-Olá, me chamo Wallacy Dos Santos Gomes, tenho 22 anos e sou natural de Brasília. Concluí o ensino médio em 2020 no SEM Setor Leste. Formado em Ciências da Computação na Universidade Estácio,  Cursando Pós graduação em Administração de Banco de Dadoa. Sou apaixonado por programação e por aqui compartilho meu conhecimento através dos meus projetos.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
