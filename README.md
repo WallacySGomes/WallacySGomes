@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Wallacy Dos Santos Gomes 
 
 ---
-Me chamo Wallacy Dos Santos gomes, tenho 22 anos, sou natural de Brasília.
+Me chamo Wallacy Dos Santos Gomes, tenho 22 anos, sou natural de Brasília.
 Sou formado em Ciências da Computação na Universidade Estácio de Sá e estou cursando Pós-Graduação em Administração de Banco de Dados na Faculdade Focus. 
 ---
 ### 🤖 Linguagens e Tecnologias
